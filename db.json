@@ -1,6 +1,6 @@
 {
   "albums": [
-    { "id": 1, "title": "Album 1, Album2" }
+    { "id": 1, "title": "Album1, Album2, Album3" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
