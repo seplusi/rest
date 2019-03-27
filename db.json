@@ -1,7 +1,5 @@
 {
-  "albums": [
-    { "id": 1, "title": "Album1, Album2, Album3" }
-  ],
+  "albums": ["Album1", "Album2", "Album3"],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
