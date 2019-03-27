@@ -2,11 +2,5 @@
   "albums": ["Album1", "Album2", "Album3", "Album4", "Album5", "Album6", "Album7", "Album8", "album9", "Album10",
 "Album11", "Album12", "Album13", "Album14", "Album15", "Album16", "Album17", "Album18", "album19", "Album20",
 "Album21", "Album22", "Album23", "Album24", "Album25", "Album26", "Album27", "Album28"],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "users": ["User1", "User2", "User3", "User4", "User5", "User6", "User7", "User8", "User9", "User10"]
 }
