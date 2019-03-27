@@ -1,8 +1,8 @@
 {
   "albums": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "Album 1" },
+    { "id": 2, "title": "Album 2" },
+    { "id": 3, "title": "Album 3" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
