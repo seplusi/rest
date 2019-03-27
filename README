@@ -1,0 +1,36 @@
+This project is intended to test a rest api that performs gets and returns users and albums. It can return all users and all albums or individual user and individual album.
+
+The rest api can be accessed through this address: https://my-json-server.typicode.com/seplusi/rest/
+
+To get all albums:
+https://my-json-server.typicode.com/seplusi/rest/albums
+
+to get individual album:
+https://my-json-server.typicode.com/seplusi/rest/albums/#
+
+To get all users:
+https://my-json-server.typicode.com/seplusi/rest/users
+
+To get individual users:
+https://my-json-server.typicode.com/seplusi/rest/users/#
+
+This project contains the following files:
+db.json       : rest API source code
+test_case.py  : Python file with test cases
+
+How to execute test cases:
+1) Install python3
+2) python3 ./test_case.py
+
+Execution result:
+
+python3 ./test_case.py -v
+test_get_all_albums (__main__.TestPostitWebApplication) ... ok
+test_get_all_users (__main__.TestPostitWebApplication) ... ok
+test_get_individual_album (__main__.TestPostitWebApplication) ... ok
+test_get_individual_user (__main__.TestPostitWebApplication) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.914s
+
+OK
